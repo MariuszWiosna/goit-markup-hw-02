@@ -1,1 +1,4 @@
-# goit-markup-hw-02
+# goit-markup-hw-01
+GOIT HW1
+
+https://mariuszwiosna.github.io/goit-markup-hw-01/
